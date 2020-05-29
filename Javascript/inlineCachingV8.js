@@ -1,4 +1,3 @@
-```js
 /*
 When the getName() method is called many times with the same object as an argument, it ends up being 
 replaced by 'Complete name: Paulo Canuto'. This technique is called Inline Caching because 
@@ -27,4 +26,3 @@ getName(userInfo)
 getName(userInfo)
 
 //some code
-```
